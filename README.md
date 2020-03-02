@@ -39,5 +39,7 @@ there could be an issue related to config files and there may be an errors that 
 please run these commands as a regular user in order to rectify the error
 
 sudo cp /etc/kubernetes/admin.conf $HOME/
+
 sudo chown $(id -u):$(id -g) $HOME/admin.conf
+
 export KUBECONFIG=$HOME/admin.conf
