@@ -1,10 +1,10 @@
-export OS_USERNAME=pagu18571
-export OS_PASSWORD=Sandiego@2020
+export OS_USERNAME=vosr17929
+export OS_PASSWORD=Sunny@12
 export OS_AUTH_URL=https://kna1.citycloud.com:5000
-export OS_USER_DOMAIN_NAME=CCP_Domain_38022
-export OS_PROJECT_DOMAIN_NAME=CCP_Domain_38022
+export OS_USER_DOMAIN_NAME=CCP_Domain_38029
+export OS_PROJECT_DOMAIN_NAME=CCP_Domain_38029
 export OS_REGION_NAME=Kna1
-export OS_PROJECT_NAME="test"
-export OS_TENANT_NAME="test"
+export OS_PROJECT_NAME="Test the kubernetes"
+export OS_TENANT_NAME="Test the kubernetes"
 export OS_AUTH_VERSION=3
 export OS_IDENTITY_API_VERSION=3
